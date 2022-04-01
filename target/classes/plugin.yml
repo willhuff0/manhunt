@@ -1,0 +1,9 @@
+name: manhunt
+main: com.icecoldmoon.manhunt.Manhunt
+version: 1.0
+api-version: 1.13
+depend: [WorldBorderAPI]
+commands:
+  mh:
+    description: mh
+    usage: /mh
